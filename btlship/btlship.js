@@ -1,6 +1,6 @@
 var randomLoc = Math.floor(Math.random() * 5);
 var loc1 = randomLoc;
-var loc2 = loc1 + 1;     //для координат корабля
+var loc2 = loc1 + 1;     //для коорд корабля
 var loc3 = loc1 + 2;
 
 var cell;
